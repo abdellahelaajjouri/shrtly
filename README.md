@@ -37,8 +37,8 @@ Added Features:
 
 ### 🔗 Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [Live]()
+- Solution URL: [Solution](https://github.com/abdellahelaajjouri/shrtly)
+- Live Site URL: [Live](https://dazzling-daifuku-ef1f9e.netlify.app/)
 
 ## My process
 
